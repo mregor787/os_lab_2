@@ -1,3 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 project(os_lab_2)
 add_executable(main main.c)
+add_executable(child1 child1.c)
+add_executable(child2 child2.c)

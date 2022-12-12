@@ -10,5 +10,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 main
+child1
+child2
 build
 .vscode
